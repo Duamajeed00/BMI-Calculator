@@ -1,0 +1,12 @@
+{
+  "name": "bmi_calculator",
+  "version": "1.0.0",
+  "description": "BMI(Body Mass Index) is a simple calculation using a person's height and weight.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dua Majeed",
+  "license": "ISC"
+}
